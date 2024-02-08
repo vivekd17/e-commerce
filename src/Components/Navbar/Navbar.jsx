@@ -35,7 +35,7 @@ export default Navbar;
 
 
 
-//
+
 {/* <ul className="nav-menu">
 <li onClick={() => { setMenu("shop") }}><Link style={{textDecoration: 'none'}} to='/' >Shop</Link>{menu === "shop" ? <hr /> : <></>} </li>
 <li onClick={() => { setMenu("mens") }}><Link to='/mens'>Men</Link>{menu === "mens" ? <hr /> : <></>}</li>
