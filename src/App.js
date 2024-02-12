@@ -7,11 +7,12 @@ import ShopCategory from './Pages/ShopCategory';
 import Product from './Pages/Product';
 import Cart from './Pages/Cart';
 import LoginSignup from './Pages/LoginSignup';
+import Footer from '../src/Components/Footer/Footer'
 
 function App() {
   return (
+    <div>
     <Router>
-      <div>
         <Navbar />
         <Routes>
           <Route path='/' element={<Shop />} />
@@ -22,8 +23,9 @@ function App() {
           <Route path='/cart' element={<Cart />} />
           <Route path='/login' element={<LoginSignup />} />
         </Routes>
-      </div>
+      <Footer />
     </Router>
+    </div>
   );
 }
 

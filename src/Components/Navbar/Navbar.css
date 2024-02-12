@@ -3,6 +3,7 @@
     justify-content: space-around;
     padding: 4px;
     box-shadow: 0 1px 3px -2px black;
+    background: #41bd1e91;
 }
 
 .shop {
@@ -61,12 +62,12 @@
     width: 157px;
     height: 58px;
     outline: none;
-    border: 1px solid #7fc758;
+    border: 1px solid #000000;
     border-radius: 75px;
-    color: #515151;
+    color: #000000;
     font-size: 20px;
     font-weight: 500;
-    background: white;
+    background: rgb(152, 189, 82);
     cursor: pointer;
 }
 
