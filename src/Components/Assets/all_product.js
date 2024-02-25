@@ -204,7 +204,7 @@ let all_product = [
     },
     {
         id: 21,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap  to the left and right",
         category: "women",
         image: p20_img,
         new_price: 120,
@@ -212,7 +212,7 @@ let all_product = [
     },
     {
         id: 22,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p21_img,
         new_price: 120,
@@ -220,7 +220,7 @@ let all_product = [
     },
     {
         id: 23,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p22_img,
         new_price: 120,
@@ -228,7 +228,7 @@ let all_product = [
     },
     {
         id: 24,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p23_img,
         new_price: 120,
@@ -236,7 +236,7 @@ let all_product = [
     },
     {
         id: 25,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p24_img,
         new_price: 120,
@@ -244,7 +244,7 @@ let all_product = [
     },
     {
         id: 26,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p25_img,
         new_price: 120,
@@ -252,7 +252,7 @@ let all_product = [
     },
     {
         id: 27,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p26_img,
         new_price: 120,
@@ -260,7 +260,7 @@ let all_product = [
     },
     {
         id: 28,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p27_img,
         new_price: 120,
@@ -268,7 +268,7 @@ let all_product = [
     },
     {
         id: 29,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p28_img,
         new_price: 120,
@@ -276,7 +276,7 @@ let all_product = [
     },
     {
         id: 30,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p29_img,
         new_price: 120,
@@ -284,7 +284,7 @@ let all_product = [
     },
     {
         id: 31,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p30_img,
         new_price: 120,
@@ -292,7 +292,7 @@ let all_product = [
     },
     {
         id: 32,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p31_img,
         new_price: 120,
@@ -300,7 +300,7 @@ let all_product = [
     },
     {
         id: 33,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p32_img,
         new_price: 120,
@@ -308,7 +308,7 @@ let all_product = [
     },
     {
         id: 34,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p33_img,
         new_price: 120,
@@ -316,7 +316,7 @@ let all_product = [
     },
     {
         id: 35,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p34_img,
         new_price: 120,
@@ -324,7 +324,7 @@ let all_product = [
     },
     {
         id: 36,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p35_img,
         new_price: 120,
@@ -332,7 +332,7 @@ let all_product = [
     },
     {
         id: 37,
-        name: "Striped Flutter Sleeve Overlap",
+        name: "Striped Flutter Sleeve Overlap to the left and right",
         category: "women",
         image: p36_img,
         new_price: 120,
